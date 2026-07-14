@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.oneoneweb.app'
+    namespace 'com.elevenplay.app'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.oneoneweb.app"
+        applicationId "com.elevenplay.app"
         minSdk 23
         targetSdk 34
         versionCode 1
