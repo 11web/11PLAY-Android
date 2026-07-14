@@ -1,4 +1,4 @@
-package com.oneoneweb.app;
+package com.elevenplay.app;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
 
         webView.setWebViewClient(new WebViewClient());
         webView.setWebChromeClient(new WebChromeClient());
-        webView.loadUrl("https://oneoneweb.github.io/11Web/");
+        webView.loadUrl("https://11web.github.io/11play/");
     }
 
     @Override
