@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708866116210",
+    "project_id": "oneoneweb-11",
+    "storage_bucket": "oneoneweb-11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708866116210:android:8067d8087f1e981eac50eb",
+        "android_client_info": {
+          "package_name": "com.elevenplay.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2RxRywXxz4e7RyibBp3XqBlvyL0INl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
